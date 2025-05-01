@@ -29,7 +29,7 @@ chatfuria/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Vaz-Gabriel/Chat-Furia
+   git clone 
    ```
 
 2. Navegue até a pasta do projeto:
