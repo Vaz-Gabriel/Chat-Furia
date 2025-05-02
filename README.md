@@ -9,8 +9,9 @@ chatfuria/
 ├── index.html
 ├── furia-style.css
 ├── recursos.js
-└── README.md
-└── furia-logo.png
+├── readme.md
+├── furia-logo.png
+
 ```
 
 ## 🚀 Funcionalidades
@@ -31,13 +32,14 @@ chatfuria/
    ```bash
    git clone https://github.com/Vaz-Gabriel/Chat-Furia.git
    ```
-
+   
 2. Navegue até a pasta do projeto:
    ```bash
    cd chatfuria
    ```
 
 3. Abra o arquivo `index.html` no navegador.
+
 
 ## 📌 Possíveis Melhorias Futuras
 
@@ -50,7 +52,8 @@ chatfuria/
 
 | Nome     | GitHub                           |
 |----------|----------------------------------|
-| Gabriel Franco Vaz | [@GabrielVaz](https://github.com/Vaz-Gabriel) |
+| Gabriel Franco Vaz | [@Vaz-Gabriel](https://github.com/Vaz-Gabriel) |
+
 
 ## 🖤 Agradecimentos
 
