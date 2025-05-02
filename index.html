@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Furia- Acompanhe o Time de CS</title>
+    <!-- Vinculando o arquivo CSS personalizado -->
+    <link rel="stylesheet" href="furia-style.css">
+</head>
+<body>
+    <div class="container">
+        
+        <!-- Logotipo da FURIA -->
+        <div class="logo-container">
+            <img src="furia-logo.png" alt="Logotipo da FURIA eSports" class="furia-logo">
+        </div>
+        <h1>Chat Furia</h1>
+        <p>Acompanhe o time de CS da FURIA e interaja com outros torcedores!</p>
+
+        <!-- Área do Chat -->
+        <div class="chat-container">
+            <div id="chatBox" class="chat-box"></div>
+            <div class="chat-input-container">
+                <input id="chatInput" type="text" placeholder="Digite sua mensagem (ex.: VAMOS FURIA!!!)" onkeypress="if(event.key === 'Enter') sendMessage();">
+                <button onclick="sendMessage()">Enviar</button>
+            </div>
+        </div>
+
+        <!-- Botões de Ação -->
+        <div class="chat-actions">
+            <button onclick="showLiveStatus()">Status de Jogo ao Vivo</button>
+            <button onclick="showRecentResults()">Resultados Recentes</button>
+            <button onclick="toggleNotifications()">Ativar Notificações</button>
+        </div>
+    </div>
+
+    <!-- Vinculando o arquivo JavaScript externo -->
+    <script src="recursos.js"></script>
+</body>
+</html>

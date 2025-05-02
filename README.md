@@ -29,7 +29,7 @@ chatfuria/
 
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/seu-usuario/furia-fan-chat.git
    ```
 
 2. Navegue até a pasta do projeto:
