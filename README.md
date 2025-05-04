@@ -50,7 +50,7 @@ chatfuria/
 
 3. Execute o comando:
    ```bash
-   index.html
+   start index.html
    ```
 
    
