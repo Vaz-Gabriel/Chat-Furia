@@ -35,25 +35,26 @@ chatfuria/
 
 ## 🛠️ Como Executar o Projeto
 
+1. Abra o Terminal
+   ```bash
+   Open Git Bash here
+   ```
 
-1. Clone o repositório:
+1. Clone o repositório
    ```bash
    git clone https://github.com/Vaz-Gabriel/Chat-Furia.git
    ```
-
    
-2. Navegue até a pasta do projeto:
+2. Navegue até a pasta do projeto
    ```bash
    cd Chat-Furia
    ```
 
-
-3. Execute o comando:
+3. Execute o comando
    ```bash
    start index.html
    ```
 
-   
 4. Abrirá o arquivo `index.html` no navegador.
 
 
