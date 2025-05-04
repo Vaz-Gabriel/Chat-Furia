@@ -35,11 +35,6 @@ chatfuria/
 
 ## 🛠️ Como Executar o Projeto
 
-1. Abra o Terminal
-   ```bash
-   Open Git Bash here
-   ```
-
 1. Clone o repositório
    ```bash
    git clone https://github.com/Vaz-Gabriel/Chat-Furia.git
